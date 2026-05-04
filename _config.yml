@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Haisa Osmanli"
 title_separator          : "-"
 name                     : &name "Haisa Osmanli"
@@ -26,7 +26,7 @@ author:
   avatar           : "/images/profile.jpg"
   name             : "Haisa Osmanli"
   pronouns         : # example: "she/her"  
-  bio              : "Principal Data Scientist specializing in AI, causal inference, and predictive modeling. PhD in Statistics."
+  bio              : "Principal Data Scientist specializing in ML, causal inference, and predictive modeling. PhD in Statistics."
   location         : "Calgary, Canada"
   employer         : "University of Calgary"
   uri              : # URL
