@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Healthcare utilization and mortality after overdose prevention site closure: A linked cohort analysis using segmented difference-in-differences time series"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'Evidence regarding the impacts of supervised drug consumption services (SDC) remains mixed, and few evaluations have used individual-level, linkable health data to examine service withdrawal. In September 2024, the Red Deer overdose prevention site (OPS) in Alberta, Canada, was scheduled for closure, with operations ceasing on 31 March 2025. This study examined: (1) changes in weekly opioid agonist therapy (OAT) dispensing among identifiable OPS clients associated with the closure announcement and subsequent service cessation; and (2) changes in acute healthcare utilization and mortality.'
+date: 2026-03-10
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
