@@ -24,7 +24,7 @@ repository               : "haisa-alpha/haisa-alpha.github.io"
 author:
   # Biographic information
   avatar           : profile.png
-  name             : "Haisa Osmanli| PhD in Statistics"
+  name             : "Haisa Osmanli| PhD"
   pronouns         : # example: "she/her"  
   bio              : "Principal Data Scientist specializing in ML, causal inference, and predictive modeling."
   location         : "Calgary, Canada"
