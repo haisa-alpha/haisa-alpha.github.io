@@ -23,7 +23,7 @@ repository               : "haisa-alpha/haisa-alpha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.png"
   name             : "Haisa Osmanli"
   pronouns         : # example: "she/her"  
   bio              : "Principal Data Scientist specializing in ML, causal inference, and predictive modeling. PhD in Statistics."
