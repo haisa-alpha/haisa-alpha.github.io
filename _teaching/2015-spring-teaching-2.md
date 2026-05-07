@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergrad courses"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "University of Regina, Department of Mathematics and Statistics"
-date: 2020-2024
+date: 01-01-2024
 location: "Regina, Canada"
 ---
 
