@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "MATH STAT"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergrad courses"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "University of Regina, Department of Mathematics and Statistics"
+date: 2020-2024
+location: "Regina, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught undergraduate courses in statistics, mathematics, and physics, delivering complex concepts in an accessible manner to diverse student groups.
+Developed curriculum, designed assessments, and provided mentorship, fostering analytical thinking and problem-solving skills among students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
