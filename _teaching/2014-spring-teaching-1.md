@@ -15,11 +15,16 @@ Delivered instruction on unsupervised learning methods, including clustering, PC
 Integrated real-world epidemiological applications such as incidence modeling and outbreak detection.
 Mentored students on the interplay between machine learning, statistical inference, and mechanistic models (e.g., SIR/SIS).
 
-Heading 1
-======
+==========================================
+title: "MATH STAT"
+collection: teaching
+type: "Undergrad courses"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "University of Regina, Department of Mathematics and Statistics"
+date: 2020-2024
+location: "Regina, Canada"
+---
 
-Heading 2
-======
+Taught undergraduate courses in statistics, mathematics, and physics, delivering complex concepts in an accessible manner to diverse student groups.
+Developed curriculum, designed assessments, and provided mentorship, fostering analytical thinking and problem-solving skills among students.
 
-Heading 3
-======
